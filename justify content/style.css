@@ -1,0 +1,56 @@
+.flex-start {
+  justify-content: flex-start;
+}
+
+.flex-end {
+  justify-content: flex-end;
+}
+
+.center {
+  justify-content: center;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.space-around {
+  justify-content: space-around;
+}
+/* Flex Item */
+.item {
+  margin: 5px;
+  padding: 0 10px;
+  background: tomato;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.flex {
+  flex: 1;
+}
+
+/* Flex Container */
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  display: flex;
+  border: 1px solid #ccc;
+}
+
+.column {
+  min-height: 200px;
+  flex-direction: column;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px 0 0 0 ;
+  font-size: 1.25rem;
+  font-weight: normal;
+}
+
+body {
+  font-family: monospace;
+  color: #333;
+}
