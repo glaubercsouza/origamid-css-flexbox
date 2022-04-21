@@ -4,7 +4,7 @@ Repositório criado para armazenar os arquivos e exercícios do curso.
 
 ## Projeto do Curso
 
-* [Flexblog]()
+* [Flexblog](https://glaubercsouza.github.io/origamid-css-flexbox/)
 
 ## Links Úteis
 
